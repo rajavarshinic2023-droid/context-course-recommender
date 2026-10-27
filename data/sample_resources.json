@@ -1,0 +1,549 @@
+[
+  {
+    "title": "The Python Tutorial",
+    "url": "https://docs.python.org/3/tutorial/index.html",
+    "type": "Documentation",
+    "source": "python.org",
+    "difficulty": "Beginner",
+    "tags": [
+      "python",
+      "basics",
+      "tutorial",
+      "functions",
+      "syntax"
+    ],
+    "description": "Official step-by-step Python tutorial.",
+    "quality_tier": "official"
+  },
+  {
+    "title": "Defining Functions (Python Tutorial)",
+    "url": "https://docs.python.org/3/tutorial/controlflow.html#defining-functions",
+    "type": "Documentation",
+    "source": "python.org",
+    "difficulty": "Beginner",
+    "tags": [
+      "python",
+      "functions",
+      "def",
+      "arguments",
+      "return"
+    ],
+    "description": "Official section on defining and calling functions.",
+    "quality_tier": "official"
+  },
+  {
+    "title": "Data Structures (Python Tutorial)",
+    "url": "https://docs.python.org/3/tutorial/datastructures.html",
+    "type": "Documentation",
+    "source": "python.org",
+    "difficulty": "Beginner",
+    "tags": [
+      "python",
+      "data structures",
+      "lists",
+      "dictionaries",
+      "tuples",
+      "sets"
+    ],
+    "description": "Official guide to lists, dicts, tuples and sets.",
+    "quality_tier": "official"
+  },
+  {
+    "title": "The Python Standard Library",
+    "url": "https://docs.python.org/3/library/index.html",
+    "type": "Documentation",
+    "source": "python.org",
+    "difficulty": "Advanced",
+    "tags": [
+      "python",
+      "library",
+      "modules",
+      "reference"
+    ],
+    "description": "Reference for the Python standard library.",
+    "quality_tier": "official"
+  },
+  {
+    "title": "CS50's Introduction to Programming with Python",
+    "url": "https://cs50.harvard.edu/python/",
+    "type": "Online Courses",
+    "source": "Harvard CS50",
+    "difficulty": "Beginner",
+    "tags": [
+      "python",
+      "programming",
+      "functions",
+      "fundamentals"
+    ],
+    "description": "Free university course covering Python fundamentals.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "Exercism: Python Track",
+    "url": "https://exercism.org/tracks/python",
+    "type": "Practice Questions",
+    "source": "Exercism",
+    "difficulty": "Beginner",
+    "tags": [
+      "python",
+      "exercises",
+      "functions",
+      "practice",
+      "problem solving"
+    ],
+    "description": "Exercises with optional mentoring for Python.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "HackerRank: Python Practice",
+    "url": "https://www.hackerrank.com/domains/python",
+    "type": "Practice Questions",
+    "source": "HackerRank",
+    "difficulty": "Intermediate",
+    "tags": [
+      "python",
+      "practice",
+      "functions",
+      "problem solving",
+      "coding"
+    ],
+    "description": "Graded Python challenges.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "W3Schools Python Tutorial",
+    "url": "https://www.w3schools.com/python/",
+    "type": "Articles",
+    "source": "W3Schools",
+    "difficulty": "Beginner",
+    "tags": [
+      "python",
+      "basics",
+      "functions",
+      "tutorial"
+    ],
+    "description": "Beginner-oriented Python tutorial pages.",
+    "quality_tier": "community"
+  },
+  {
+    "title": "YouTube search: Python functions, parameters and return values",
+    "url": "https://www.youtube.com/results?search_query=python+functions+parameters+return+values+tutorial",
+    "type": "Video Tutorials",
+    "source": "YouTube (search results)",
+    "difficulty": "Intermediate",
+    "tags": [
+      "python",
+      "functions",
+      "parameters",
+      "arguments",
+      "return values",
+      "video",
+      "tutorial"
+    ],
+    "description": "Topic-specific YouTube search results for Python functions, parameters, arguments and return values; this opens search results, not a verified individual video.",
+    "quality_tier": "community"
+  },
+  {
+    "title": "Khan Academy: Algorithms",
+    "url": "https://www.khanacademy.org/computing/computer-science/algorithms",
+    "type": "Online Courses",
+    "source": "Khan Academy",
+    "difficulty": "Beginner",
+    "tags": [
+      "algorithms",
+      "data structures",
+      "searching",
+      "sorting",
+      "recursion"
+    ],
+    "description": "Introductory algorithms course.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "VisuAlgo: Visualising Data Structures and Algorithms",
+    "url": "https://visualgo.net/en",
+    "type": "Practice Questions",
+    "source": "VisuAlgo",
+    "difficulty": "Intermediate",
+    "tags": [
+      "data structures",
+      "algorithms",
+      "sorting",
+      "graph",
+      "tree",
+      "visualisation"
+    ],
+    "description": "Interactive visualisations with an online quiz mode.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "HackerRank: Data Structures Practice",
+    "url": "https://www.hackerrank.com/domains/data-structures",
+    "type": "Practice Questions",
+    "source": "HackerRank",
+    "difficulty": "Intermediate",
+    "tags": [
+      "data structures",
+      "arrays",
+      "linked list",
+      "trees",
+      "stack",
+      "queue"
+    ],
+    "description": "Data-structure challenges.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "LeetCode Problem Set",
+    "url": "https://leetcode.com/problemset/",
+    "type": "Practice Questions",
+    "source": "LeetCode",
+    "difficulty": "Advanced",
+    "tags": [
+      "algorithms",
+      "data structures",
+      "problem solving",
+      "interview",
+      "coding"
+    ],
+    "description": "Large problem set for algorithmic practice.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "YouTube search: data structures and algorithms course",
+    "url": "https://www.youtube.com/results?search_query=data+structures+and+algorithms+full+course",
+    "type": "Video Tutorials",
+    "source": "YouTube (search results)",
+    "difficulty": "Beginner",
+    "tags": [
+      "data structures",
+      "algorithms",
+      "video",
+      "course"
+    ],
+    "description": "Link to a YouTube search; videos are chosen by the student.",
+    "quality_tier": "community"
+  },
+  {
+    "title": "Machine Learning Specialization (Coursera)",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction",
+    "type": "Online Courses",
+    "source": "Coursera",
+    "difficulty": "Beginner",
+    "tags": [
+      "machine learning",
+      "supervised",
+      "regression",
+      "classification"
+    ],
+    "description": "Introductory machine learning specialization.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "Kaggle Learn: Intro to Machine Learning",
+    "url": "https://www.kaggle.com/learn/intro-to-machine-learning",
+    "type": "Online Courses",
+    "source": "Kaggle",
+    "difficulty": "Beginner",
+    "tags": [
+      "machine learning",
+      "python",
+      "decision trees",
+      "model validation"
+    ],
+    "description": "Short hands-on course with exercises.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "scikit-learn User Guide",
+    "url": "https://scikit-learn.org/stable/user_guide.html",
+    "type": "Documentation",
+    "source": "scikit-learn",
+    "difficulty": "Intermediate",
+    "tags": [
+      "machine learning",
+      "scikit-learn",
+      "classification",
+      "regression",
+      "clustering"
+    ],
+    "description": "Official guide to the scikit-learn library.",
+    "quality_tier": "official"
+  },
+  {
+    "title": "Practical Deep Learning for Coders (fast.ai)",
+    "url": "https://course.fast.ai/",
+    "type": "Online Courses",
+    "source": "fast.ai",
+    "difficulty": "Advanced",
+    "tags": [
+      "machine learning",
+      "deep learning",
+      "neural networks",
+      "python"
+    ],
+    "description": "Code-first deep learning course.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "YouTube search: machine learning tutorial",
+    "url": "https://www.youtube.com/results?search_query=machine+learning+tutorial",
+    "type": "Video Tutorials",
+    "source": "YouTube (search results)",
+    "difficulty": "Beginner",
+    "tags": [
+      "machine learning",
+      "video",
+      "tutorial"
+    ],
+    "description": "Link to a YouTube search; videos are chosen by the student.",
+    "quality_tier": "community"
+  },
+  {
+    "title": "pandas User Guide",
+    "url": "https://pandas.pydata.org/docs/user_guide/index.html",
+    "type": "Documentation",
+    "source": "pandas",
+    "difficulty": "Intermediate",
+    "tags": [
+      "pandas",
+      "data analysis",
+      "python",
+      "dataframe"
+    ],
+    "description": "Official pandas user guide.",
+    "quality_tier": "official"
+  },
+  {
+    "title": "NumPy: the absolute basics for beginners",
+    "url": "https://numpy.org/doc/stable/user/absolute_beginners.html",
+    "type": "Documentation",
+    "source": "NumPy",
+    "difficulty": "Beginner",
+    "tags": [
+      "numpy",
+      "python",
+      "arrays",
+      "data"
+    ],
+    "description": "Official beginner guide to NumPy arrays.",
+    "quality_tier": "official"
+  },
+  {
+    "title": "Operating Systems: Three Easy Pieces",
+    "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
+    "type": "Documentation",
+    "source": "University of Wisconsin",
+    "difficulty": "Intermediate",
+    "tags": [
+      "operating systems",
+      "processes",
+      "scheduling",
+      "memory",
+      "virtual memory",
+      "concurrency",
+      "file systems"
+    ],
+    "description": "Free online operating systems textbook.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "Linux Journey",
+    "url": "https://linuxjourney.com/",
+    "type": "Online Courses",
+    "source": "Linux Journey",
+    "difficulty": "Beginner",
+    "tags": [
+      "linux",
+      "operating systems",
+      "command line",
+      "processes",
+      "file system"
+    ],
+    "description": "Beginner-friendly Linux lessons.",
+    "quality_tier": "community"
+  },
+  {
+    "title": "YouTube search: operating systems full course",
+    "url": "https://www.youtube.com/results?search_query=operating+systems+full+course",
+    "type": "Video Tutorials",
+    "source": "YouTube (search results)",
+    "difficulty": "Beginner",
+    "tags": [
+      "operating systems",
+      "video",
+      "processes",
+      "scheduling",
+      "memory"
+    ],
+    "description": "Link to a YouTube search; videos are chosen by the student.",
+    "quality_tier": "community"
+  },
+  {
+    "title": "PostgreSQL Documentation",
+    "url": "https://www.postgresql.org/docs/",
+    "type": "Documentation",
+    "source": "PostgreSQL",
+    "difficulty": "Intermediate",
+    "tags": [
+      "database",
+      "sql",
+      "postgresql",
+      "queries",
+      "indexes"
+    ],
+    "description": "Official PostgreSQL manuals.",
+    "quality_tier": "official"
+  },
+  {
+    "title": "W3Schools SQL Tutorial",
+    "url": "https://www.w3schools.com/sql/",
+    "type": "Articles",
+    "source": "W3Schools",
+    "difficulty": "Beginner",
+    "tags": [
+      "sql",
+      "database",
+      "queries",
+      "select",
+      "joins"
+    ],
+    "description": "Beginner SQL tutorial pages.",
+    "quality_tier": "community"
+  },
+  {
+    "title": "SQLBolt: Learn SQL with Interactive Lessons",
+    "url": "https://sqlbolt.com/",
+    "type": "Practice Questions",
+    "source": "SQLBolt",
+    "difficulty": "Beginner",
+    "tags": [
+      "sql",
+      "database",
+      "queries",
+      "exercises",
+      "joins"
+    ],
+    "description": "Interactive SQL exercises.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "HackerRank: SQL Practice",
+    "url": "https://www.hackerrank.com/domains/sql",
+    "type": "Practice Questions",
+    "source": "HackerRank",
+    "difficulty": "Intermediate",
+    "tags": [
+      "sql",
+      "database",
+      "queries",
+      "joins",
+      "aggregation"
+    ],
+    "description": "Graded SQL challenges.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "Description of the database normalization basics (Microsoft Learn)",
+    "url": "https://learn.microsoft.com/en-us/office/troubleshoot/access/database-normalization-description",
+    "type": "Articles",
+    "source": "Microsoft Learn",
+    "difficulty": "Beginner",
+    "tags": [
+      "database",
+      "normalization",
+      "normal forms",
+      "1nf",
+      "2nf",
+      "3nf",
+      "tables",
+      "keys"
+    ],
+    "description": "Article explaining normalization and the first three normal forms.",
+    "quality_tier": "official"
+  },
+  {
+    "title": "YouTube search: database normalization explained",
+    "url": "https://www.youtube.com/results?search_query=database+normalization+explained",
+    "type": "Video Tutorials",
+    "source": "YouTube (search results)",
+    "difficulty": "Beginner",
+    "tags": [
+      "database",
+      "normalization",
+      "normal forms",
+      "video"
+    ],
+    "description": "Link to a YouTube search; videos are chosen by the student.",
+    "quality_tier": "community"
+  },
+  {
+    "title": "Computer Networking: A Top-Down Approach (companion site)",
+    "url": "https://gaia.cs.umass.edu/kurose_ross/",
+    "type": "Documentation",
+    "source": "UMass Amherst",
+    "difficulty": "Intermediate",
+    "tags": [
+      "computer networks",
+      "tcp",
+      "ip",
+      "http",
+      "protocols",
+      "layers",
+      "routing"
+    ],
+    "description": "Companion material for a widely used networking textbook.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "Cloudflare Learning Center",
+    "url": "https://www.cloudflare.com/learning/",
+    "type": "Articles",
+    "source": "Cloudflare",
+    "difficulty": "Beginner",
+    "tags": [
+      "computer networks",
+      "dns",
+      "http",
+      "tcp",
+      "ip",
+      "security",
+      "network"
+    ],
+    "description": "Explanatory articles on networking concepts.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "MDN: HTTP",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP",
+    "type": "Documentation",
+    "source": "MDN Web Docs",
+    "difficulty": "Intermediate",
+    "tags": [
+      "http",
+      "computer networks",
+      "web",
+      "protocols",
+      "headers"
+    ],
+    "description": "Reference and guides for HTTP.",
+    "quality_tier": "established"
+  },
+  {
+    "title": "YouTube search: computer networks full course",
+    "url": "https://www.youtube.com/results?search_query=computer+networks+full+course",
+    "type": "Video Tutorials",
+    "source": "YouTube (search results)",
+    "difficulty": "Beginner",
+    "tags": [
+      "computer networks",
+      "video",
+      "tcp",
+      "ip",
+      "osi model",
+      "layers"
+    ],
+    "description": "Link to a YouTube search; videos are chosen by the student.",
+    "quality_tier": "community"
+  }
+]
